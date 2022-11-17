@@ -4713,3 +4713,347 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.17-20.28.55:407][796]LogContentValidation: Display: Validating World /Game/Main.Main
 [2022.11.17-20.29.14:560][921]LogSlate: Window 'Content Browser' being destroyed
 [2022.11.17-20.29.14:567][921]LogSlate: Window 'Content Browser' being destroyed
+[2022.11.17-20.31.02:074][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.17-20.31.02:101][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.11.17-20.31.02:151][798]LogSavePackage: Moving output files for package: /Game/Main
+[2022.11.17-20.31.02:151][798]LogSavePackage: Moving '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Saved/Main9003459145F5FCD5FE780589BDF898F1.tmp' to '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap'
+[2022.11.17-20.31.02:157][798]LogFileHelpers: No new changes to save!
+[2022.11.17-20.31.02:157][798]LogFileHelpers: Saving map 'Main' took 0.084
+[2022.11.17-20.31.02:171][798]AssetCheck: New page: Asset Save: Main
+[2022.11.17-20.31.02:171][798]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.11.17-20.31.06:511][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.17-20.31.06:535][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.11.17-20.31.06:580][ 56]LogSavePackage: Moving output files for package: /Game/Main
+[2022.11.17-20.31.06:581][ 56]LogSavePackage: Moving '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Saved/Main8A3B38FA4CBE0AF22023428AD2FC4420.tmp' to '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap'
+[2022.11.17-20.31.06:589][ 56]LogFileHelpers: No new changes to save!
+[2022.11.17-20.31.06:589][ 56]LogFileHelpers: Saving map 'Main' took 0.078
+[2022.11.17-20.31.06:602][ 56]AssetCheck: New page: Asset Save: Main
+[2022.11.17-20.31.06:602][ 56]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.11.17-20.31.07:174][ 91]BlueprintLog: New page: Compile Main
+[2022.11.17-20.31.07:231][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.11.17-20.31.08:745][169]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.17-20.31.08:749][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.17-20.31.08:749][169]PIE: New page: PIE session: Main (17 lis 2022, 22:31:08)
+[2022.11.17-20.31.08:749][169]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2022.11.17-20.31.08:771][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022100s)
+[2022.11.17-20.31.08:771][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.022202s)
+[2022.11.17-20.31.08:771][169]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.17-20.31.08:771][169]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.17-20.31.08:772][169]LogAIModule: Creating AISystem for world Main
+[2022.11.17-20.31.08:772][169]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2022.11.17-20.31.08:796][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.11.17-20.31.08:798][169]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2022.11.17-20.31.08:798][169]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.17-20.31.08:798][169]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.17-20.31.08:798][169]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.17-20.31.08:798][169]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.17-20.31.08:798][169]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.17-20.31.08:798][169]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.17-20.31.08:798][169]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.17-20.31.08:798][169]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.17-20.31.08:798][169]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.17-20.31.08:798][169]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.17-20.31.08:798][169]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.17-20.31.08:800][169]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.17-20.31.08:815][169]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (WF-1000XM3)
+[2022.11.17-20.31.08:817][169]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.17-20.31.08:817][169]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.17-20.31.08:817][169]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.17-20.31.08:817][169]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2022.11.17-20.31.08:817][169]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2022.11.17-20.31.08:819][169]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2022.11.17-20.31.08:819][169]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2022.11.17-20.31.08:819][169]LogInit: FAudioDevice initialized.
+[2022.11.17-20.31.08:819][169]LogAudio: Display: Audio Device (ID: 49) registered with world 'Main'.
+[2022.11.17-20.31.08:827][169]LogLoad: Game class is 'GameModeBase'
+[2022.11.17-20.31.08:828][169]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.31.08:828][169]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.31.08:828][169]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.31.08:828][169]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.31.08:828][169]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.31.08:828][169]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.31.08:829][169]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.31.08:829][169]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.31.08:829][169]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.31.08:829][169]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.31.08:829][169]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.31.08:829][169]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.31.08:842][169]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2022.11.17-21.31.08
+[2022.11.17-20.31.08:842][169]LogWorld: Bringing up level for play took: 0.014877
+[2022.11.17-20.31.08:844][169]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2022.11.17-20.31.08:845][169]PIE: Server logged in
+[2022.11.17-20.31.08:846][169]PIE: Play in editor total start time 0,097 seconds.
+[2022.11.17-20.31.15:093][538]LogBlueprintUserMessages: [Main_C_5] No Amo left
+[2022.11.17-20.31.15:277][549]LogBlueprintUserMessages: [Main_C_5] No Amo left
+[2022.11.17-20.31.15:460][560]LogBlueprintUserMessages: [Main_C_5] No Amo left
+[2022.11.17-20.31.15:991][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-20.31.15:991][590]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2022.11.17-20.31.15:991][590]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.11.17-20.31.15:996][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-20.31.16:007][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.17-20.31.16:010][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-20.31.16:032][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-20.31.16:032][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2022.11.17-20.31.16:033][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2022.11.17-20.31.16:043][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.11.17-20.31.16:068][591]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2022.11.17-20.31.18:925][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.17-20.31.18:949][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.11.17-20.31.18:995][751]LogSavePackage: Moving output files for package: /Game/Main
+[2022.11.17-20.31.18:995][751]LogSavePackage: Moving '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Saved/Main7427F10F421B7D51A859458D3CD658C3.tmp' to '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap'
+[2022.11.17-20.31.19:001][751]LogFileHelpers: No new changes to save!
+[2022.11.17-20.31.19:001][751]LogFileHelpers: Saving map 'Main' took 0.077
+[2022.11.17-20.31.19:015][751]AssetCheck: New page: Asset Save: Main
+[2022.11.17-20.31.19:015][751]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.11.17-20.31.43:630][224]BlueprintLog: New page: Collapse to Function
+[2022.11.17-20.32.55:261][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.17-20.32.55:282][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.11.17-20.32.55:328][364]LogSavePackage: Moving output files for package: /Game/Main
+[2022.11.17-20.32.55:329][364]LogSavePackage: Moving '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Saved/Main3AD39D4C4933B13DC82D3593396FD94B.tmp' to '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap'
+[2022.11.17-20.32.55:336][364]LogFileHelpers: No new changes to save!
+[2022.11.17-20.32.55:336][364]LogFileHelpers: Saving map 'Main' took 0.076
+[2022.11.17-20.32.55:348][364]AssetCheck: New page: Asset Save: Main
+[2022.11.17-20.32.55:348][364]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.11.17-20.33.27:234][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.17-20.33.27:262][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.11.17-20.33.27:314][ 19]LogSavePackage: Moving output files for package: /Game/Main
+[2022.11.17-20.33.27:314][ 19]LogSavePackage: Moving '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Saved/Main632D757E46280317952BA29493B60814.tmp' to '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap'
+[2022.11.17-20.33.27:322][ 19]LogFileHelpers: No new changes to save!
+[2022.11.17-20.33.27:322][ 19]LogFileHelpers: Saving map 'Main' took 0.088
+[2022.11.17-20.33.27:336][ 19]AssetCheck: New page: Asset Save: Main
+[2022.11.17-20.33.27:336][ 19]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.11.17-20.38.27:386][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.17-20.38.27:418][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.11.17-20.38.27:468][ 17]LogSavePackage: Moving output files for package: /Game/Main
+[2022.11.17-20.38.27:468][ 17]LogSavePackage: Moving '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Saved/Main1D1E23BC48C424F8FB7163A2C6C58161.tmp' to '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap'
+[2022.11.17-20.38.27:475][ 17]LogFileHelpers: No new changes to save!
+[2022.11.17-20.38.27:475][ 17]LogFileHelpers: Saving map 'Main' took 0.092
+[2022.11.17-20.38.27:490][ 17]AssetCheck: New page: Asset Save: Main
+[2022.11.17-20.38.27:490][ 17]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.11.17-20.38.59:042][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.17-20.38.59:068][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.17-20.38.59:117][905]LogSavePackage: Moving output files for package: /Game/Main
+[2022.11.17-20.38.59:117][905]LogSavePackage: Moving '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Saved/MainA35F8EBD4062527002D9B6AB5FF9BE54.tmp' to '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap'
+[2022.11.17-20.38.59:129][905]LogFileHelpers: No new changes to save!
+[2022.11.17-20.38.59:129][905]LogFileHelpers: Saving map 'Main' took 0.088
+[2022.11.17-20.38.59:143][905]AssetCheck: New page: Asset Save: Main
+[2022.11.17-20.38.59:143][905]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.11.17-20.39.13:093][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.17-20.39.13:123][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.11.17-20.39.13:175][739]LogSavePackage: Moving output files for package: /Game/Main
+[2022.11.17-20.39.13:175][739]LogSavePackage: Moving '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Saved/MainE7539F9043AC6D41A388FABB0782DE94.tmp' to '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap'
+[2022.11.17-20.39.13:182][739]LogFileHelpers: No new changes to save!
+[2022.11.17-20.39.13:182][739]LogFileHelpers: Saving map 'Main' took 0.090
+[2022.11.17-20.39.13:197][739]AssetCheck: New page: Asset Save: Main
+[2022.11.17-20.39.13:197][739]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.11.17-20.39.16:199][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.17-20.39.16:224][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.11.17-20.39.16:274][917]LogSavePackage: Moving output files for package: /Game/Main
+[2022.11.17-20.39.16:275][917]LogSavePackage: Moving '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Saved/Main8F6648E54B57FBAC4DCC39A37BBA15E9.tmp' to '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap'
+[2022.11.17-20.39.16:282][917]LogFileHelpers: No new changes to save!
+[2022.11.17-20.39.16:282][917]LogFileHelpers: Saving map 'Main' took 0.082
+[2022.11.17-20.39.16:302][917]AssetCheck: New page: Asset Save: Main
+[2022.11.17-20.39.16:302][917]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.11.17-20.42.24:765][699]BlueprintLog: New page: Collapse to Function
+[2022.11.17-20.42.53:073][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.17-20.42.53:101][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.11.17-20.42.53:151][126]LogSavePackage: Moving output files for package: /Game/Main
+[2022.11.17-20.42.53:151][126]LogSavePackage: Moving '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Saved/Main45B9318043A88A016E0ABFAB3F726C5D.tmp' to '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap'
+[2022.11.17-20.42.53:157][126]LogFileHelpers: No new changes to save!
+[2022.11.17-20.42.53:157][126]LogFileHelpers: Saving map 'Main' took 0.086
+[2022.11.17-20.42.53:168][126]AssetCheck: New page: Asset Save: Main
+[2022.11.17-20.42.53:168][126]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.11.17-20.43.23:664][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.17-20.43.23:688][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.11.17-20.43.23:735][948]LogSavePackage: Moving output files for package: /Game/Main
+[2022.11.17-20.43.23:735][948]LogSavePackage: Moving '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Saved/Main1B0E373B49A568FA73D8F7802228C66D.tmp' to '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap'
+[2022.11.17-20.43.23:741][948]LogFileHelpers: No new changes to save!
+[2022.11.17-20.43.23:741][948]LogFileHelpers: Saving map 'Main' took 0.079
+[2022.11.17-20.43.23:754][948]AssetCheck: New page: Asset Save: Main
+[2022.11.17-20.43.23:754][948]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.11.17-20.43.25:213][ 36]BlueprintLog: New page: Compile Main
+[2022.11.17-20.43.25:216][ 36]LogBlueprint: Warning: [AssetLog] C:\Users\mplut\Documents\Unreal Projects\HouseWrecking\Content\Main.umap: [Compiler] Has Ammo  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2022.11.17-20.43.25:218][ 36]LogBlueprint: Error: [AssetLog] C:\Users\mplut\Documents\Unreal Projects\HouseWrecking\Content\Main.umap: [Compiler] Failed to resolve term  Value generated from expanding Decrement Int  passed into  Target generated from expanding Decrement Int
+[2022.11.17-20.43.25:277][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.17-20.43.39:010][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.17-20.43.39:033][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.11.17-20.43.39:084][854]LogSavePackage: Moving output files for package: /Game/Main
+[2022.11.17-20.43.39:084][854]LogSavePackage: Moving '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Saved/MainECBC82EE4A3FAC99A891B2A052AACFD3.tmp' to '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap'
+[2022.11.17-20.43.39:090][854]LogFileHelpers: No new changes to save!
+[2022.11.17-20.43.39:091][854]LogFileHelpers: Saving map 'Main' took 0.081
+[2022.11.17-20.43.39:102][854]AssetCheck: New page: Asset Save: Main
+[2022.11.17-20.43.39:102][854]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.11.17-20.43.40:620][945]BlueprintLog: New page: Compile Main
+[2022.11.17-20.43.40:622][945]LogBlueprint: Warning: [AssetLog] C:\Users\mplut\Documents\Unreal Projects\HouseWrecking\Content\Main.umap: [Compiler] Has Ammo  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2022.11.17-20.43.40:625][945]LogBlueprint: Error: [AssetLog] C:\Users\mplut\Documents\Unreal Projects\HouseWrecking\Content\Main.umap: [Compiler] Failed to resolve term  Value generated from expanding Decrement Int  passed into  Target generated from expanding Decrement Int
+[2022.11.17-20.43.40:674][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.11.17-20.43.52:275][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.17-20.43.52:296][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.11.17-20.43.52:344][627]LogSavePackage: Moving output files for package: /Game/Main
+[2022.11.17-20.43.52:345][627]LogSavePackage: Moving '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Saved/Main7F594C6E418AE3C866C992BA9D005FBA.tmp' to '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap'
+[2022.11.17-20.43.52:350][627]LogFileHelpers: No new changes to save!
+[2022.11.17-20.43.52:350][627]LogFileHelpers: Saving map 'Main' took 0.076
+[2022.11.17-20.43.52:363][627]AssetCheck: New page: Asset Save: Main
+[2022.11.17-20.43.52:363][627]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.11.17-20.43.53:670][704]BlueprintLog: New page: Compile Main
+[2022.11.17-20.43.53:671][704]LogBlueprint: Warning: [AssetLog] C:\Users\mplut\Documents\Unreal Projects\HouseWrecking\Content\Main.umap: [Compiler] Has Ammo  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2022.11.17-20.43.53:731][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.11.17-20.44.20:352][290]BlueprintLog: New page: Compile Main
+[2022.11.17-20.44.20:405][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.11.17-20.44.24:313][518]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.17-20.44.24:319][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.17-20.44.24:319][518]PIE: New page: PIE session: Main (17 lis 2022, 22:44:24)
+[2022.11.17-20.44.24:319][518]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2022.11.17-20.44.24:341][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022534s)
+[2022.11.17-20.44.24:341][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.022637s)
+[2022.11.17-20.44.24:341][518]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.17-20.44.24:341][518]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.17-20.44.24:343][518]LogAIModule: Creating AISystem for world Main
+[2022.11.17-20.44.24:343][518]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2022.11.17-20.44.24:370][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.11.17-20.44.24:370][518]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2022.11.17-20.44.24:370][518]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.17-20.44.24:370][518]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.17-20.44.24:372][518]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.17-20.44.24:372][518]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.17-20.44.24:372][518]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.17-20.44.24:372][518]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.17-20.44.24:372][518]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.17-20.44.24:372][518]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.17-20.44.24:372][518]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.17-20.44.24:372][518]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.17-20.44.24:372][518]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.17-20.44.24:375][518]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.17-20.44.24:397][518]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (WF-1000XM3)
+[2022.11.17-20.44.24:397][518]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.17-20.44.24:397][518]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.17-20.44.24:397][518]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.17-20.44.24:398][518]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2022.11.17-20.44.24:398][518]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=50
+[2022.11.17-20.44.24:400][518]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2022.11.17-20.44.24:400][518]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2022.11.17-20.44.24:400][518]LogInit: FAudioDevice initialized.
+[2022.11.17-20.44.24:400][518]LogAudio: Display: Audio Device (ID: 50) registered with world 'Main'.
+[2022.11.17-20.44.24:412][518]LogLoad: Game class is 'GameModeBase'
+[2022.11.17-20.44.24:414][518]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.44.24:414][518]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.44.24:414][518]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.44.24:415][518]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.44.24:415][518]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.44.24:415][518]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.44.24:415][518]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.44.24:415][518]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.44.24:415][518]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.44.24:415][518]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.44.24:416][518]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.44.24:416][518]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.44.24:428][518]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2022.11.17-21.44.24
+[2022.11.17-20.44.24:429][518]LogWorld: Bringing up level for play took: 0.015665
+[2022.11.17-20.44.24:431][518]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2022.11.17-20.44.24:433][518]PIE: Server logged in
+[2022.11.17-20.44.24:434][518]PIE: Play in editor total start time 0,115 seconds.
+[2022.11.17-20.44.29:323][804]LogBlueprintUserMessages: [Main_C_9] No Amo left
+[2022.11.17-20.44.29:507][815]LogBlueprintUserMessages: [Main_C_9] No Amo left
+[2022.11.17-20.44.29:690][826]LogBlueprintUserMessages: [Main_C_9] No Amo left
+[2022.11.17-20.44.29:873][837]LogBlueprintUserMessages: [Main_C_9] No Amo left
+[2022.11.17-20.44.30:057][848]LogBlueprintUserMessages: [Main_C_9] No Amo left
+[2022.11.17-20.44.30:240][859]LogBlueprintUserMessages: [Main_C_9] No Amo left
+[2022.11.17-20.44.30:422][870]LogBlueprintUserMessages: [Main_C_9] No Amo left
+[2022.11.17-20.44.31:097][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-20.44.31:097][908]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2022.11.17-20.44.31:097][908]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.11.17-20.44.31:102][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-20.44.31:113][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.17-20.44.31:116][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-20.44.31:141][908]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.17-20.44.31:141][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2022.11.17-20.44.31:143][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2022.11.17-20.44.31:146][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-20.44.31:154][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.11.17-20.44.31:178][909]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2022.11.17-20.51.02:287][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.17-20.51.02:317][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.11.17-20.51.02:375][890]LogSavePackage: Moving output files for package: /Game/Main
+[2022.11.17-20.51.02:375][890]LogSavePackage: Moving '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Saved/MainB8D4662448920711FE02A2BABFCA0DD9.tmp' to '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap'
+[2022.11.17-20.51.02:385][890]LogFileHelpers: No new changes to save!
+[2022.11.17-20.51.02:385][890]LogFileHelpers: Saving map 'Main' took 0.100
+[2022.11.17-20.51.02:401][890]AssetCheck: New page: Asset Save: Main
+[2022.11.17-20.51.02:401][890]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.11.17-20.51.04:843][ 35]BlueprintLog: New page: Compile Main
+[2022.11.17-20.51.04:912][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.11.17-20.51.06:840][139]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.17-20.51.06:846][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.17-20.51.06:846][139]PIE: New page: PIE session: Main (17 lis 2022, 22:51:06)
+[2022.11.17-20.51.06:871][139]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2022.11.17-20.51.06:895][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024014s)
+[2022.11.17-20.51.06:895][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.024170s)
+[2022.11.17-20.51.06:895][139]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.17-20.51.06:895][139]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.17-20.51.06:895][139]LogAIModule: Creating AISystem for world Main
+[2022.11.17-20.51.06:896][139]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2022.11.17-20.51.06:926][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.11.17-20.51.06:928][139]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2022.11.17-20.51.06:928][139]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.17-20.51.06:928][139]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.17-20.51.06:928][139]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.17-20.51.06:928][139]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.17-20.51.06:928][139]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.17-20.51.06:928][139]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.17-20.51.06:928][139]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.17-20.51.06:928][139]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.17-20.51.06:928][139]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.17-20.51.06:928][139]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.17-20.51.06:928][139]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.17-20.51.06:931][139]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.17-20.51.06:956][139]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (WF-1000XM3)
+[2022.11.17-20.51.06:956][139]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.17-20.51.06:956][139]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.17-20.51.06:956][139]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.17-20.51.06:957][139]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2022.11.17-20.51.06:957][139]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=51
+[2022.11.17-20.51.06:960][139]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2022.11.17-20.51.06:961][139]LogInit: FAudioDevice initialized.
+[2022.11.17-20.51.06:961][139]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2022.11.17-20.51.06:961][139]LogAudio: Display: Audio Device (ID: 51) registered with world 'Main'.
+[2022.11.17-20.51.06:982][139]LogLoad: Game class is 'GameModeBase'
+[2022.11.17-20.51.06:983][139]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.51.06:983][139]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.51.06:983][139]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.51.06:983][139]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.51.06:983][139]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.51.06:983][139]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.51.06:984][139]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.51.06:984][139]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.51.06:984][139]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.51.06:984][139]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.51.06:984][139]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.51.06:984][139]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.17-20.51.06:999][139]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2022.11.17-21.51.06
+[2022.11.17-20.51.07:000][139]LogWorld: Bringing up level for play took: 0.017510
+[2022.11.17-20.51.07:003][139]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2022.11.17-20.51.07:004][139]PIE: Server logged in
+[2022.11.17-20.51.07:005][139]PIE: Play in editor total start time 0,16 seconds.
+[2022.11.17-20.51.11:794][410]LogBlueprintUserMessages: [Main_C_10] No Amo left
+[2022.11.17-20.51.12:043][424]LogBlueprintUserMessages: [Main_C_10] No Amo left
+[2022.11.17-20.51.12:242][436]LogBlueprintUserMessages: [Main_C_10] No Amo left
+[2022.11.17-20.51.12:427][447]LogBlueprintUserMessages: [Main_C_10] No Amo left
+[2022.11.17-20.51.12:646][460]LogBlueprintUserMessages: [Main_C_10] No Amo left
+[2022.11.17-20.51.13:771][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-20.51.13:771][525]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2022.11.17-20.51.13:772][525]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.11.17-20.51.13:776][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-20.51.13:794][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.17-20.51.13:799][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-20.51.13:831][525]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.17-20.51.13:831][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2022.11.17-20.51.13:833][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2022.11.17-20.51.13:838][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-20.51.13:846][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.11.17-20.51.13:884][526]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2022.11.17-20.51.15:089][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.17-20.51.15:115][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.11.17-20.51.15:167][594]LogSavePackage: Moving output files for package: /Game/Main
+[2022.11.17-20.51.15:167][594]LogSavePackage: Moving '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Saved/Main39BBE66C4AA6EA1B08F82390B43ADC35.tmp' to '../../../../../../Users/mplut/Documents/Unreal Projects/HouseWrecking/Content/Main.umap'
+[2022.11.17-20.51.15:174][594]LogFileHelpers: No new changes to save!
+[2022.11.17-20.51.15:192][594]AssetCheck: New page: Asset Save: Main
+[2022.11.17-20.51.15:192][594]LogContentValidation: Display: Validating World /Game/Main.Main
